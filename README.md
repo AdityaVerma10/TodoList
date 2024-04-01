@@ -13,7 +13,7 @@ This is a simple Todo List app that allows you to keep track of your daily tasks
 
 To get started with this project, follow these steps:
 
-1. Clone this repository to your local machine using git clone https://github.com/RaminMikayilov/Redux-Todo-List.git
+1. Clone this repository to your local machine using git clone [https://github.com/AdityaVerma10/TodoList]
 2. Navigate to the project directory using cd redux-todo-list
 3. Install the necessary dependencies using npm install
 4. Start the development server using npm run dev(because I use vite react)
