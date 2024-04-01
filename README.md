@@ -7,7 +7,6 @@ This is a simple Todo List app that allows you to keep track of your daily tasks
 - Add new tasks to the list
 - Mark tasks as completed
 - Delete tasks from the list
-- View a list of all, active, completed tasks
 - Save tasks to local storage
 
 ## Installation
